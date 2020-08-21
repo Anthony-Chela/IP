@@ -9,3 +9,6 @@ body {
 ul {
   color:blue
 }
+img { 
+  float: left;
+}
