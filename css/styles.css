@@ -7,8 +7,9 @@ body {
   background-color: rgb(224, 217, 217);
 }
 ul {
-  color:blue
+  text-align:center;
+  color:blue; 
 }
 img { 
-  float: left;
+  border-radius: 80px;
 }
